@@ -18,6 +18,8 @@ Contents
    SolutionOverview
    SitecoreStructureMapping
    IgnitionPowerShell
+   UsingIgnition
+   
 
 ==========   
 Contribute
@@ -38,6 +40,7 @@ Authors
 -------
 * `Jon Upchurch <https://twitter.com/sitecorejon>`_ (Solution Architect and Lead Developer)
 * `Corey Smith  <https://twitter.com/sitecorey>`_ (Architect and Developer)
+* Eric Sanner (Developer)
 
 =====================
 Copyright and License
